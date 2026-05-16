@@ -74,5 +74,3 @@ This project analyzes historical Wikipedia traffic data and applies machine lear
 **Usha Mittal Institute of Technology (UMIT)**  
 **SNDT Women's University, Mumbai**
 ---
-
-d
